@@ -1,4 +1,4 @@
-# FalcoGTT - Bus & Tram in tempo reale (Comando Rapido iPhone)
+# FalcoGTT - Bus & Tram in tempo reale (Comandi Rapidi iOS)
 
 Un semplice **comando rapido per iPhone** che permette di controllare velocemente i **prossimi autobus e tram in arrivo ad una fermata**.
 
@@ -6,7 +6,7 @@ Invece di aprire un'app di trasporto pubblico, puoi eseguire il comando rapido, 
 
 ---
 
-## 🚀 Come funziona
+## Come funziona
 
 1. Apri il **comando rapido** su iPhone.
 2. Inserisci il **numero della fermata** quando richiesto.
@@ -19,7 +19,7 @@ Invece di aprire un'app di trasporto pubblico, puoi eseguire il comando rapido, 
 
 ---
 
-## 📱 Installazione
+## Installazione
 
 1. **Scarica** il file [FalcoGTT.shortcut](https://github.com/1tunas/falco-gtt/raw/refs/heads/main/FalcoGTT.shortcut)
 2. Apri il file e premi **Condividi**
@@ -30,18 +30,18 @@ Invece di aprire un'app di trasporto pubblico, puoi eseguire il comando rapido, 
 
 ---
 
-## 💡 Perché usarlo
+## Perché usarlo
 
-- ⚡ **Più veloce** rispetto ad aprire un'app di trasporti
-- 🔢 Funziona direttamente con il **numero della fermata**
-- 📱 Integrato nell'app **Comandi** di iOS
-- 🚌 Permette di controllare rapidamente **bus e tram in arrivo**
+- **Più veloce** rispetto ad aprire un'app di trasporti
+- Funziona direttamente con il **numero della fermata**
+- Integrato nell'app **Comandi** di iOS
+- Permette di controllare rapidamente **bus e tram in arrivo**
 
 Ideale per chi vuole un modo **semplice e immediato** per controllare gli orari dei mezzi.
 
 ---
 
-## 🛠 Requisiti
+## Requisiti
 
 - iPhone  
 - App **Comandi (Shortcuts)** di iOS  
@@ -49,6 +49,6 @@ Ideale per chi vuole un modo **semplice e immediato** per controllare gli orari 
 
 ---
 
-## 📄 Licenza
+## Licenza
 
 Questo progetto è distribuito sotto licenza **MIT**.
