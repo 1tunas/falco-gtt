@@ -19,11 +19,14 @@ Invece di aprire un'app di trasporto pubblico, puoi eseguire il comando rapido, 
 
 ---
 
-## 📱 Scarica
+## 📱 Installazione
 
 [![Scarica su App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://google.com)
 
-> ⚠️ Il link all'App Store è temporaneo e verrà aggiornato quando la pagina ufficiale sarà disponibile.
+1. **Scarica** il file .shortcut
+2. Apri il file e premi **Condividi**
+3. Seleziona **Comandi rapidi** dall'elenco delle app
+4. Premi **Aggiungi comando rapido** per salvarlo
 
 ---
 
