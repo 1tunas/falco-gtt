@@ -21,12 +21,12 @@ Invece di aprire un'app di trasporto pubblico, puoi eseguire il comando rapido, 
 
 ## 📱 Installazione
 
-[![Scarica su App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://google.com)
-
-1. **Scarica** il file .shortcut
+1. **Scarica** il file [FalcoGTT.shortcut](https://github.com/1tunas/falco-gtt/raw/refs/heads/main/FalcoGTT.shortcut)
 2. Apri il file e premi **Condividi**
 3. Seleziona **Comandi rapidi** dall'elenco delle app
 4. Premi **Aggiungi comando rapido** per salvarlo
+
+**Potresti dover concedere permessi aggiuntivi per poter salvare Comandi Rapidi di terze parti**
 
 ---
 
