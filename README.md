@@ -21,7 +21,7 @@ Invece di aprire un'app di trasporto pubblico, puoi eseguire il comando rapido, 
 
 ## Installazione
 
-![qr-code](https://github.com/1tunas/falco-gtt/blob/main/qr-code.png?raw=true)
+![qr-code](https://github.com/1tunas/falco-gtt/blob/main/download-qr.png?raw=true)
 
 1. **Scarica** il file [FalcoGTT.shortcut](https://github.com/1tunas/falco-gtt/raw/refs/heads/main/FalcoGTT.shortcut)
 2. Apri il file e premi **Condividi**
